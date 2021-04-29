@@ -30,4 +30,5 @@ Excellent Godot Shader (2D) examples are avaiable at:
 ## Future Development
 None
 
-## Created by Nicholas Wrightsman
+## Created by
+Nicholas Wrightsman
